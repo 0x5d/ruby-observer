@@ -1,5 +1,5 @@
-require './event_handler.rb'
-require './event_listener.rb'
+require './event_handler'
+require './event_listener'
 
 def run
   handler = EventHandler.new
